@@ -97,7 +97,7 @@ function App() {
                                 : "text-black font-bold dark:text-white"
                         }`}
                     >
-                        Decriptografar
+                        Descriptografar
                     </div>
                 </div>
 
